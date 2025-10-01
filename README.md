@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Artur
-<img src="https://github.com/artnr7/AboutMe/raw/main/gif/smile_face.gif" height="32"/></h1>
+<img src="https://github.com/artnr7/AboutMe/raw/main/png/smile_face.png" height="32"/></h1>
 
 I am a student at `School 21`  
 I am focused on learning the C++ and C programming languages.  
@@ -9,10 +9,9 @@ I am focused on learning the C++ and C programming languages.
 <p>
 <img src="https://github.com/artnr7/AboutMe/raw/main/svg/cplusplus.svg" height="35" style="vertical-align:down; margin:4px" alt="cplusplus">
 <img src="https://github.com/artnr7/AboutMe/raw/main/svg/c.svg" height="35" style="vertical-align:down; margin:4px" alt="c">
-<img src="https://github.com/artnr7/AboutMe/raw/main/gif/git.gif" height="35" style="vertical-align:down; margin:4px" alt="cmake">
-<img src="https://github.com/artnr7/AboutMe/raw/main/svg/make.svg" height="35" style="vertical-align:down; margin:4px" alt="make">
-
-<img src="https://github.com/artnr7/AboutMe/raw/main/svg/git.svg" height="35" style="vertical-align:down; margin:4px" alt="git">
+<img src="https://github.com/artnr7/AboutMe/raw/main/svg/cmake.svg" height="35" style="vertical-align:down; margin:4px" alt="cmake">
+<img src="https://github.com/artnr7/AboutMe/raw/main/svg/makefile.svg" height="35" style="vertical-align:down; margin:4px" alt="make">
+<img src="https://github.com/artnr7/AboutMe/raw/main/gif/git.gif" height="35" style="vertical-align:down; margin:4px" alt="git">
 </p>
 
 <!-- ![Bash](https://img.shields.io/badge/Bash-311C87?style=flat-square&logo=Bash&logoColor=white) -->
